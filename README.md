@@ -54,8 +54,8 @@
 ## 📊 Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.shion.dev/api?username=Gasyh3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117"/>
-<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gasyh3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=erz3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117"/>
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=erz3d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
 
 </div>
 

@@ -12,12 +12,6 @@
 <p data-importer="text" align="left"></p>
 
 ###
-
-<br clear="both">
-
-<p data-importer="text" align="left"></p>
-
-###
 <h2 data-importer="text" align="left"></h2>
 <h2 data-importer="text" align="left">👋 About Me</h2>
 

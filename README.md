@@ -7,7 +7,7 @@
 
 ###
 <h2 data-importer="text" align="left"></h2>
-<h2 data-importer="text" align="left">👋 About Me</h2>
+<h1 data-importer="text" align="left">👋 About Me</h1>
 
 ### 
 <div data-importer="socials" align="center">

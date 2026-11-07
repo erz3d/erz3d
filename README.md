@@ -1,9 +1,3 @@
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=razafindrakoto.a.mael&color=D14836&logoColor=black&labelColor=ffffff&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/maël-razafindrakoto-943b2a328/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Mael%20Razafindrakoto&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
@@ -14,6 +8,14 @@
 ###
 <h2 data-importer="text" align="left"></h2>
 <h2 data-importer="text" align="left">👋 About Me</h2>
+
+### 
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=razafindrakoto.a.mael&color=D14836&logoColor=black&labelColor=ffffff&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/maël-razafindrakoto-943b2a328/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Mael%20Razafindrakoto&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 

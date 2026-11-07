@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="left">🎓 Bachelor of Science Information Technology at Curtin University</h2>
+<h2 data-importer="text" align="left">🎓 Bachelor of Science Information Technology at Curtin University (2027)</h2>
 
 ###
 

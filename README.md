@@ -18,7 +18,7 @@
 <p data-importer="text" align="left"></p>
 
 ###
-
+<h2 data-importer="text" align="left"></h2>
 <h2 data-importer="text" align="left">👋 About Me</h2>
 
 ###
@@ -42,7 +42,7 @@
 ###
 
 <br clear="both">
-
+<h2 data-importer="text" align="left"></h2>
 <h2 data-importer="text" align="left">💻 Tech Stack</h2>
 
 ###
@@ -119,21 +119,11 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left"></p>
-
-###
-
-<br clear="both">
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<br clear="both">
-
 <h2 data-importer="text" align="left"></h2>
 
 ###
+
+<h2 data-importer="text" align="left">📊 Stats</h2>
 
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="stats graph"  />

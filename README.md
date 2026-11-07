@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">🧑‍💻 Freshly graduated Developer<br><br>I have growing interest for Artifiacial Intelligence. People say AI will replace developers but in reality AI is here to enhance and speed up developers work. Developers have always contributed a lot for the future and now even more with the recent emergence of AI in our daily life.</p>
+<p data-importer="text" align="left">🧑‍💻 Entry-Level Junior Developer looking for first professional experiences<br><br>I have growing interest for Artifiacial Intelligence. People say AI will replace developers but in reality AI is here to enhance and speed up developers work. Developers have always contributed a lot for the future and now even more with the recent emergence of AI in our daily life.</p>
 
 ###
 

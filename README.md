@@ -119,10 +119,12 @@
 
 <h2 data-importer="text" align="left">📊 Stats</h2>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/erz3d/erz3d/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/erz3d/erz3d/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
+<div align="center">
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=erz3d&hide_title=true&hide_rank=true&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&bg_color=0D1117"/>
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=erz3d&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+
 </div>
+
 
 ###
 

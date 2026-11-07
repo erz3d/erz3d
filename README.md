@@ -50,3 +50,19 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/erz3d">erz3d</a></i></p>
+
+## 📊 Stats
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=Gasyh3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117"/>
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gasyh3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+🏀 NBA · 🎸 Guitare · 🎮 Jeux vidéo · 🎌 J-Pop & manga
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
